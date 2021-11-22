@@ -1,0 +1,4 @@
+﻿  FilesWithGit.cpp
+C:\Users\simps\OneDrive\Desktop\member1\FilesWithGit\FilesWithGit\FilesWithGit.cpp(62,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simps\OneDrive\Desktop\member1\FilesWithGit\FilesWithGit\FilesWithGit.cpp(22,9): warning C4101: 'i': unreferenced local variable
+  FilesWithGit.vcxproj -> C:\Users\simps\OneDrive\Desktop\member1\FilesWithGit\Debug\FilesWithGit.exe

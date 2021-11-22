@@ -1,0 +1,4 @@
+Nike,Plastic,Red,8,159.99
+Juice,Glove,White,2,0
+notnike,leather,pink,4,7.99
+Nike,Plastic,Red,2,159.99
