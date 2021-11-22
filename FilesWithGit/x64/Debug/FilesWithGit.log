@@ -1,0 +1,3 @@
+﻿  FilesWithGit.cpp
+C:\Users\simps\OneDrive\Desktop\member2\FileWithGit\FilesWithGit\FilesWithGit.cpp(19,9): warning C4101: 'i': unreferenced local variable
+  FilesWithGit.vcxproj -> C:\Users\simps\OneDrive\Desktop\member2\FileWithGit\x64\Debug\FilesWithGit.exe
